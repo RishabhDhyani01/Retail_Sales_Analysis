@@ -50,11 +50,3 @@ The dataset includes information about sales transactions, customers, products, 
 
 ## Objective
 To demonstrate practical SQL skills by transforming raw retail data into meaningful business insights and supporting data-driven business decisions.
-
-Retail-Sales-Analysis
-│
-├── Retail_Sales_Dataset.csv
-├── Retail_Sales_Data_Dictionary.csv
-├── Retail_Sales_Analysis.sql
-├── Business_Insights.pdf
-└── README.md
